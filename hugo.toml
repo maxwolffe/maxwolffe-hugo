@@ -1,3 +1,6 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://maxwolffe.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Max Wolffe'
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+sectionPagesMenu = 'main'
+
