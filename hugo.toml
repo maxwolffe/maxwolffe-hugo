@@ -1,7 +1,9 @@
 baseURL = "http://192.168.1.21:80/"
 languageCode = 'en-us'
 title = 'Max Wolffe'
-theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+[module]
+[[module.imports]]
+    path = 'github.com/theNewDynamic/gohugo-theme-ananke'
 resourceDir = "../resources"
 
 DefaultContentLanguage = "en"
