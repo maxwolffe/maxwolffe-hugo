@@ -6,8 +6,8 @@ title = 'Max Wolffe'
     path = 'github.com/theNewDynamic/gohugo-theme-ananke'
 resourceDir = "../resources"
 
-DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
+DefaultContentLanguage = "en"
 Paginate = 10
 googleAnalytics = ""
 enableRobotsTXT = true
