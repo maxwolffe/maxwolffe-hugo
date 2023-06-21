@@ -1,5 +1,6 @@
 ---
 title: "About Me"
+featured_image: '/images/new_england.jpg'
 menu:
   main:
     weight: 1
@@ -26,6 +27,7 @@ A complex system that works is invariably found to have evolved from a simple sy
 
 I build simple, working systems.
 
-You can send me an email [here][max-email].
+You can send me an email [here](mailto:max.wolffe@berkeley.edu)
 
 Thanks for visiting!
+
