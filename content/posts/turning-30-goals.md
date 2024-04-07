@@ -1,6 +1,6 @@
 ---
 title: "Turning 30 - goals and habits"
-date: 2024-04-12T15:51:16-07:00
+date: 2024-04-07T15:51:16-07:00
 tags: ["goals"]
 draft: false
 ---
